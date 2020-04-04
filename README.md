@@ -16,5 +16,6 @@ While learning different GitHub concepts I've made my notes below that may help 
 * **[Installing and Configuring Git | Mac](https://www.youtube.com/watch?v=0Icla6TVNNo)** (It comes pre-installed on Mac)
 * **[Git Commands](https://gist.github.com/jedmao/5053440)** (Cheat Sheet for common daily use GitHub Commands)
 * **[Add GIFs to README.md](https://medium.com/@josephcardillo/how-to-add-gifs-to-your-github-readme-89c74da2ce47)** (Make Presentation Awesome!)
+* **[Customizing Repository's Social Media Preview](https://help.github.com/en/github/administering-a-repository/customizing-your-repositorys-social-media-preview)** (Makes sharing more fun!)
 
-#### Will keep on adding, so stay tuned...... :eyes:
+#### Will keep on adding, so stay tuned...... :eyes:]
