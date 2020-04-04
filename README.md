@@ -15,5 +15,6 @@ While learning different GitHub concepts I've made my notes below that may help 
 * **[Inserting Images to README.md](https://www.youtube.com/watch?v=hHbWF1Bvgf4)** (Interesting to know) 
 * **[Installing and Configuring Git | Mac](https://www.youtube.com/watch?v=0Icla6TVNNo)** (It comes pre-installed on Mac)
 * **[Git Commands](https://gist.github.com/jedmao/5053440)** (Cheat Sheet for common daily use GitHub Commands)
+* **[Add GIFs to README.md](https://medium.com/@josephcardillo/how-to-add-gifs-to-your-github-readme-89c74da2ce47)** (Make Presentation Awesome!)
 
 #### Will keep on adding, so stay tuned...... :eyes:
