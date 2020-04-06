@@ -18,5 +18,6 @@ While learning different GitHub concepts I've made my notes below that may help 
 * **[Add GIFs to README.md](https://medium.com/@josephcardillo/how-to-add-gifs-to-your-github-readme-89c74da2ce47)** (Make Presentation Awesome!)
 * **[Customizing Repository's Social Media Preview](https://help.github.com/en/github/administering-a-repository/customizing-your-repositorys-social-media-preview)** (Makes sharing more fun!)
 * **[Introduction Training by GitHub Team](https://lab.github.com/githubtraining/introduction-to-github)** (~1 hr and for all kind of audiences)
+* **[Adding an existing project to Github](https://help.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line)**(Very much required information)
 
 #### Will keep on adding, so stay tuned...... :eyes:
